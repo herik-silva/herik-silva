@@ -3,7 +3,7 @@
 
 - 🌱 Atualmente estou trabalhando com **Django e React** em um projeto da faculdade que pode ser acessado em [IkemenStore](https://ikemenstore.netlify.app/)
 
-- 📫 Entre em contato comigo **herik.silva.019@gmail.com**
+- 📫 Entre em contato comigo [**herik.silva.019@gmail.com**](mailto:herik.silva.019@gmail.com)
 
 ## Linguagens e Ferramentas
 ### Experiência em trabalhos acadêmicos
@@ -21,6 +21,12 @@
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
 ![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+
+### Outras Experiências
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 
 ## Projetos Online
 - <img width="24px" src="https://app.mediccap.com.br/favicon.ico"> [Mediccap](https://app.mediccap.com.br/login): Desenvolvido em conjunto com dois colegas da faculdade, um sistema de gerenciamento de leads hospedado na AWS, usando Angular, Django Rest e Docker.

@@ -13,5 +13,5 @@
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 
 ## Projetos Online
-- <img width="24px" src="https://app.mediccap.com.br/favicon.ico"> [Mediccap](https://app.mediccap.com.br/login): Desenvolvido em conjunto com dois colegas da faculdade, um sistema de gerenciamento de leads hospedado na AWS, usando Angular, Django Rest e Docker.
+- <img width="24px" src="https://app.mediccap.com.br/favicon.ico"> [Mediccap](https://app.mediccap.com.br/login): Desenvolvido em conjunto com dois colegas da faculdade, um sistema de gerenciamento de leads hospedado na AWS, usando React, Django Rest e Docker.
 - <img width="24px" src="https://ikemenstore.netlify.app/ikemenstore-icon.ico">[IkemenStore](https://ikemenstore.netlify.app): Projeto em desenvolvimento como aluno bolsista do projeto de inovação no IFMG - Campus Bambuí. Neste projeto está sendo utilizando Django Rest e React.
